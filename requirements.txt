@@ -1,8 +1,11 @@
 pandas
 numpy
 seaborn
-Matplotlip
+matplotlib
 scikit-learn
 catboost
 xgboost
+Flask
+dill
+
 #-e .
